@@ -115,4 +115,4 @@
 
 #KONTRIBUTOR
 * Masukkan Nama Kontributor Disini dengan format [nama_lengkap](LinkedIn_Page)
-* Andhika_Raka_Kurniawan
+* [Andhika_Raka_Kurniawan](https://www.linkedin.com/in/andhika-raka-kurniawan-a223591a6)
